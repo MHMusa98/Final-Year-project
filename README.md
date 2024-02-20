@@ -1,5 +1,7 @@
 # Transfer Learning-Based Plant Disease Detection & Classification
 
+N.B: Go to Master Branch to see the project Files.
+
 ## Overview
 This project aims to provide an efficient solution for plant disease detection and classification using transfer learning-based deep learning techniques. It includes a user-friendly web application built with Python Flask, enabling real-time diagnosis for users. By leveraging pre-trained deep learning models and transfer learning, the system can accurately identify various plant diseases, helping farmers and agricultural experts to take timely actions to prevent crop loss.
 
